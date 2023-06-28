@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #111;
+}
+
+h1,
+h2,
+h3,
+h4,
+ul,
+p,
+blockquote,
+dd {
+    margin: 0;
+}
+
+ul {
+    padding: 0;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    /* herdar do conteudo pai */
+    color: inherit;
+}
+
+img {
+    max-width: 100%;
+    /* crescer de acordo com o tamanho da img */
+    height: auto;
+    display: block;
+    /* pra n cortar svg */
+}
+
+/* seletor de atributo da tag [] tipo img src, o src atributo
+   $= termina com
+   da pra por sem o img, mas so img pra dizer*/
+img[src$='.jpg']{
+    border-radius: 4px;
+}
