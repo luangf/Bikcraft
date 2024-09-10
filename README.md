@@ -1,7 +1,7 @@
 # Bikcraft
 Bikcraft - Project developed with HTML and CSS, deployed on GitHub Pages
 
-Acessar: https://luangf.github.io/Bikcraft/
+Open project: https://luangf.github.io/Bikcraft/
 
 Demonstration video:
 
