@@ -3,4 +3,4 @@ Bikcraft - Projeto HTML + CSS
 
 Acessar: https://luangf.github.io/Bikcraft/
 
-https://github.com/user-attachments/assets/ce099a1b-6dda-4e5d-8ba6-e8a977b50f4f
+https://github.com/user-attachments/assets/edb8f689-de50-425f-8194-6d75fd0a293c
