@@ -1,4 +1,4 @@
 # Bikcraft
-Bikcraft - Projeto HTML + CSS desenvolvido no curso Origamid
+Bikcraft - Projeto HTML + CSS
 
 Acessar: https://luangf.github.io/Bikcraft/
